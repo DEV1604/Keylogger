@@ -1,0 +1,21 @@
+[06.09.2018 11:50:39]
+Hook started... Timer started
+
+[06.09.2018 21:21:14]
+Hook started... Timer started
+
+[06.09.2018 21:22:49]
+Hook started... Timer started
+
+[06.09.2018 21:29:45]
+Hook started... Timer started
+
+[07.09.2018 09:53:53]
+Hook started... Timer started
+
+[07.09.2018 09:54::0]
+Hook started... Timer started
+
+[07.09.2018 12:22::3]
+Hook started... Timer started
+
